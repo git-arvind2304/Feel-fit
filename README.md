@@ -9,4 +9,4 @@ Built with:
 
 The message: “Build With The Ones Who Show Up.”
 
-🔗 Live: [https://feel-fitt-b204f5.netlify.app/]
+🔗 Live: [https://jazzy-valkyrie-b204f5.netlify.app/]
